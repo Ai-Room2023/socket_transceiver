@@ -17,7 +17,7 @@ or (for linux):
 ```
 sudo apt-get install python3-opencv
 ```
-!Note : pickel, struct is native for python3
+Note: pickel, struct is native for python3
 
 <h3> Server Script </h3>
 install dependency:
