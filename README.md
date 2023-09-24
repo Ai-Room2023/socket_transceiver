@@ -8,6 +8,7 @@ send and receive image use socket library in python
 check and edit host ip address,port in send.py , receive.py 
 <h3> Client Script </h3>
 install dependency :
+
 ```
 pip install sockets
 pip install opencv-python
